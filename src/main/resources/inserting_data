@@ -1,3 +1,5 @@
+##copy this data to be inserted in the database
+
 INSERT INTO PRODUCT VALUES (1, 2000, 'laptop');
 INSERT INTO PRODUCT VALUES (2, 1000, 'iphone');
 INSERT INTO PRODUCT VALUES (3, 100, 'mouse');

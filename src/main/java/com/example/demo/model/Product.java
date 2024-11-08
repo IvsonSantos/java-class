@@ -8,7 +8,9 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-
+/**
+ * This is the resource object that we will use to store, get etc in the database
+ */
 @Entity
 @Getter
 @Setter
